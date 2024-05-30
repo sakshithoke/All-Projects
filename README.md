@@ -59,5 +59,33 @@ Introducing NOVA, a revolutionary hair bleaching technology that transforms the 
 - Hybrid Subscription Model: Salons initially purchase the product and can later subscribe to services offering shared intelligence and refillable pouches, ensuring both short-term and long-term revenue.
 
 <h5 align="Left">3. ERP Simulation Analysis</h5>
+<h4 align="Left">Problem Statement</h4>
+This document outlines the growth strategy, game strategy, and sales and marketing efforts of a maple syrup company over four rounds of a business simulation. The company aimed to optimize its product assortments, expand into high-demand regions, and maximize profitability through efficient operations, strategic market expansion, and customer-centricity.
+The document provides a detailed analysis of the company's performance across four rounds, including key achievements, mistakes, and lessons learned. It also presents the evolution of the company's sales and marketing strategy, procurement strategy, and region-wise price variations and total sales.
+
+<h4 align="Left">Solution</h4>
+
+The key elements of the solution presented in the MIS project document are as follows:
+**Growth Strategy:**
+- Targeted expansion into high-demand regions
+- Tailoring syrup offerings to regional preferences
+- Optimizing product assortments for maximum penetration in North, South, and West markets
+**Game Strategy:**
+- Maximizing profitability through efficient operations, strategic market expansion, and customer-centricity
+- Achieving a superior balanced scorecard
+**Sales and Marketing Strategy:**
+- Initial focus on highest-selling products, increasing their inventory and sales
+- Revised strategy to reduce marketing costs and invest only in the top 3 highest-selling products
+- Tracking region-wise market capture and adjusting procurement strategy to align with regional demand patterns
+**Procurement Strategy:**
+- Adjusting procurement strategy to address issues with product surpluses and stockouts
+**Pricing Strategy:**
+- Flexible pricing approach tailored to each regional market
+- Adjusting prices based on demand, production costs, and competition
+**Key Achievements, Mistakes, and Lessons Learned:**
+- Identified and discussed the company's 5 key achievements, 5 key mistakes, and 5 key lessons learned throughout the simulation
+  
+This project document provides a comprehensive overview of the company's strategic decision-making, operational challenges, and performance analysis across the four rounds of the business simulation. The insights and lessons learned can serve as valuable guidance for future strategic planning and decision-making in similar business scenarios.
+
 
 <h5 align="Left">4. Netflix stats - Anlysis</h5>
